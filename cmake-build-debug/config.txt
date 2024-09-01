@@ -1,0 +1,14 @@
+longitud_puente = 500
+media_este = 2.0
+media_oeste = 2.5
+velocidad_promedio_este = 45
+velocidad_promedio_oeste = 50
+rango_velocidad_este_inferior = 40
+rango_velocidad_este_superior = 50
+rango_velocidad_oeste_inferior = 35
+rango_velocidad_oeste_superior = 55
+K1 = 4
+K2 = 3
+tiempo_semaforo_este = 10
+tiempo_semaforo_oeste = 12
+porcentaje_ambulancias=10
